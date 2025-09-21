@@ -23,19 +23,19 @@ Providing a comprehensive view of subscribers behaviour, highlighting subscripti
 
 ## ✅ Assumptions
 
-| Status                 | Description               |
-|------------------------|---------------------------|
-| New Account           | Subscriber who has just signed up for the subscription. It's basically it's first step in their journey.  |
-| Recurring Account     | Subscriber who has remained continuously active with the subscription, without any interruptions. If there was a break in activity, even if the subscriber has now been active for consecutive months, they are considered recovered.                        |
-| Recovered Account     | Subscriber who previously stopped engaging with the subscription, but has returned.           |
-| Fast-Churn Account    | Subscriber who has canceled the subscription within the same month they signed up and has not been returned.                                          |
-| Churn Account         | Subscriber whose account has been canceled within a specific time frame and has not been returned (churn can only be voluntary in this case, the subscriber chooses to stop the subscription by not renewing).    |
+| Status                            | Description               |
+|-----------------------------------|---------------------------|
+| New Account                       | Subscriber who has just signed up for the subscription. It's basically it's first step in their journey.  |
+| Recurring Account                 | Subscriber who has remained continuously active with the subscription, without any interruptions. If there was a break in activity, even if the subscriber has now been active for consecutive months, they are considered recovered.                        |
+| Recovered Account                 | Subscriber who previously stopped engaging with the subscription, but has returned.           |
+| Fast-Churn Account                | Subscriber who has canceled the subscription within the same month they signed up and has not been returned.                                          |
+| Churn Account                     | Subscriber whose account has been canceled within a specific time frame and has not been returned (churn can only be voluntary in this case, the subscriber chooses to stop the subscription by not renewing).    |
 | Paid Account          | Percentage of subscribers that have successfully paid the subscription within the billing cycle.          |
-| Unpaid Account        | Percentage of subscribers that have not paid the subscription within the billing cycle.|
-| Active Account        | Subscriber whose account has not been canceled within a specific time frame (the payment status doesn't affect the access to the service in this case).|
+| Unpaid Account                   | Percentage of subscribers that have not paid the subscription within the billing cycle.|
+| Active Account                   | Subscriber whose account has not been canceled within a specific time frame (the payment status doesn't affect the access to the service in this case).|
 | Active Account with 5+ month tenure:  | Subscribers whose accounts have remained active for 5 or more consecutive months after the last active subscription.  |
-| Inactive Account      | Subscriber that has been stopped engaging for the subscription (see definition of 'Churned Account') .|
-| Subscriber Joined     | Subscriber who has signed up for the plan for the first time (see definition of 'New Account'). For recovered accounts, the original sign-up date is used to determine when they initially joined.|
+| Inactive Account                 | Subscriber that has been stopped engaging for the subscription (see definition of 'Churned Account') .|
+| Subscriber Joined                | Subscriber who has signed up for the plan for the first time (see definition of 'New Account'). For recovered accounts, the original sign-up date is used to determine when they initially joined.|
 | Subscriber joined still active:  | Subscriber who has signed up for the plan for the first time and remain active to this today (see definition of 'Active Account'). For recovered accounts, the original sign-up date is used to determine when they initially joined. |
 
 ## 📊 Dashboard 
