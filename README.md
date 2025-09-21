@@ -1,4 +1,4 @@
-# Looker Studio Project: Subscription Analysis Dashboard**
+# Looker Studio Project: Subscription Analysis Dashboard
 
 ## 📖 Overview
 Providing a comprehensive view of subscribers behaviour, highlighting subscription trends, engagement patterns, and retention metrics.
