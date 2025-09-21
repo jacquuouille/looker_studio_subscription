@@ -38,3 +38,25 @@ Providing a comprehensive view of subscribers behaviour, highlighting subscripti
 | Subscriber Joined     | Subscriber who has signed up for the plan for the first time (see definition of 'New Account'). For recovered accounts, the original sign-up date is used to determine when they initially joined.|
 | Subscriber joined still active:  | Subscriber who has signed up for the plan for the first time and remain active to this today (see definition of 'Active Account'). For recovered accounts, the original sign-up date is used to determine when they initially joined. |
 
+## 📊 Dashboard 
+
+#### KPIs (September 2022 - September 2023)
+1. **Active Accounts:** 1,065
+2. **Churn Accounts:** 1,812
+3. **Unpaid Accounts (%):** 4.6%
+4. **Accounts with 5+ Month Tenure (%):** 16.1%
+5. **Average Customer Lifetime (months):** 2
+
+## 🛠️ Technology Stack
+- Looker Studio, PostgreSQL, Python, VS Code, Github
+
+## ℹ️ Data Source
+[Meaven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
+
+## 👨‍💻 Author
+**Jacques Hervochon** 🟦 [LinkedIn](https://www.linkedin.com/in/jacques-hervochon-27448898) |
+🔗 [Portfolio](https://jacqueshervochon.carrd.co/#) |
+📆 [Book a call](https://calendly.com/jacqueshervochon/30min)
+
+## 📄 License 
+This project is licensed under the MIT License.
