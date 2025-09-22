@@ -46,6 +46,20 @@ Providing a comprehensive view of subscribers behaviour, highlighting subscripti
 4. **Accounts with 5+ Month Tenure (%):** 16.1%
 5. **Average Customer Lifetime (months):** 2
 
+## 📈 Key Learnings
+- 37% active vs. 63% inactive as of Sept 2023 → high churn rate
+- Large share of fast-churned users (11.8%) → many leave within the first month
+- More than half of accounts are churned (51.2%)
+- Only a small fraction reach long-term engagement (16% stay 5+ months).
+- A minority of accounts left without ever paying (higher for fast-churned).
+
+## 🔑 Overall Takeaways
+- Severe churn issue → only ~2 months average lifetime.
+- Acquisition isn’t the problem (steady new signups each month), but retention is very weak.
+- Fast churn is critical → 1 in 10 users cancels within the first month.
+- Recovered users exist, but they are a small minority and don’t offset losses.
+- Long-term loyalty is rare → only 1 in 6 subscribers reaches 5+ months.
+
 ## 🛠️ Technology Stack
 - Looker Studio, PostgreSQL, Python, VS Code, Github
 
